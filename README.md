@@ -19,7 +19,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src="/pety logo test.png")
+[Link](url) and ![Logo](https://github.com/laPepita/pety/blob/master/pety%20logo%20test.png?raw=true)
 ```
 
 ### Contact Petrus
