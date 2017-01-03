@@ -19,7 +19,6 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://raw.githubusercontent.com/laPepita/pety/master/pety%20logo%20test.png)
 ```
 ![alt text][logo]
 [logo]: https://raw.githubusercontent.com/laPepita/pety/master/pety%20logo%20test.png "Logo Title Text 2"
